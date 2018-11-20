@@ -8,7 +8,7 @@ to get the chance to predict future customer revenue.
 
 To get a copy of the project, just clone the repository  
 and download it to a local directory  
-then open `Google analytics EDA by AEweed.ipynb` with jupyter notebook on Conda  
+then open `Google analytics EDA.ipynb` with jupyter notebook on Conda  
 you can then explore my report, see my results and  
 enjoy the plots I made on the dataset you can even rerun the code yourself!  
 
@@ -16,7 +16,7 @@ enjoy the plots I made on the dataset you can even rerun the code yourself!
 
 you should have python version 3.4 or higher installed  
 you should have jupyter notebook installed  
-you should have all the libraies imported in the `Google analytics EDA by AEweed.ipynb` file installed
+you should have all the libraies imported in the `Google analytics EDA.ipynb` file installed
 
 
 ## Authors
